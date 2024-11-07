@@ -4,9 +4,9 @@
 This project predicts bank insolvency using key financial indicators. Machine learning models—Random Forest, Logistic Regression, and XGBoost—were applied, achieving an 86% accuracy rate. The original dataset, sourced from Kaggle, was cleaned and enriched for reliable predictions.
 
 ### Files
-- **`data.csv`**: Original dataset.
+- **`bank.csv`**: Original dataset.
 - **`final_data.csv`**: Processed dataset after cleaning.
-- **`bankruptcy_project.ipynb`**: Jupyter Notebook with all steps—data cleaning, modeling, and evaluation.
+- **`Bankruptcy_Project.ipynb`**: Jupyter Notebook with all steps—data cleaning, modeling, and evaluation.
 
 ### How to Run
 1. Clone the repository.
